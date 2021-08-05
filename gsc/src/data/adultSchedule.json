@@ -1,0 +1,57 @@
+[
+    {
+       "Session": 1, 
+       "ClassDates": "Jan 16 & 17",
+       "Makeup": "Jan 23"
+    },
+    {
+        "Session": 2, 
+        "ClassDates": "Feb 13 & 14",
+        "Makeup": "Feb 27"
+     },
+     {
+        "Session": 3, 
+        "ClassDates": "Mar 20 & 21",
+        "Makeup": "Mar 27"
+     },
+     {
+        "Session": 4, 
+        "ClassDates": "Apr 17 & 18",
+        "Makeup": "May 1"
+     },
+     {
+        "Session": 5, 
+        "ClassDates": "May 22 & 23",
+        "Makeup": "Jun 5"
+     },
+     {
+        "Session": 6, 
+        "ClassDates": "Jun 19 & 20",
+        "Makeup": "Jul 24"
+     },
+     {
+        "Session": 7, 
+        "ClassDates": "Jul 10 & 11",
+        "Makeup": "Jul 24"
+     },
+     {
+        "Session": 8, 
+        "ClassDates": "Aug 14 & 15",
+        "Makeup": "Aug 21"
+     },
+     {
+        "Session": 9, 
+        "ClassDates": "Sep 11 & 12",
+        "Makeup": "Sep 25"
+     },
+     {
+        "Session": 10, 
+        "ClassDates": "Oct 16 & 17",
+        "Makeup": "Oct 23"
+     },
+     {
+        "Session": 11, 
+        "ClassDates": "Nov 13 & 14",
+        "Makeup": "Dec 4"
+     }
+]

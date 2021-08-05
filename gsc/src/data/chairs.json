@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "Title": "Ocean Race", 
+        "Name": "David Notman", 
+        "Email": "oceanracing@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 2, 
+        "Title": "Nominating", 
+        "Name": "Brenda Kobrin", 
+        "Email": "nominating@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 3, 
+        "Title": "Auditing", 
+        "Name": "Linda Gossett", 
+        "Email": "board@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 4, 
+        "Title": "Cruise", 
+        "Name": "Gregg Henry", 
+        "Email": "cruising@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 5, 
+        "Title": "Social", 
+        "Name": "Mary Brown", 
+        "Email": "social@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 6, 
+        "Title": "Membership", 
+        "Name": "Ben Bowen", 
+        "Email": "membership@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 7, 
+        "Title": "Publicity", 
+        "Name": "Phil Decker", 
+        "Email": "board@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 8, 
+        "Title": "Legislative", 
+        "Name": "Sam Walker", 
+        "Email": "board@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 9, 
+        "Title": "Program", 
+        "Name": "Andrea Keyser", 
+        "Email": "board@gulfstreamsailingclub.org"
+    },
+    {
+        "id": 10, 
+        "Title": "Trophy", 
+        "Name": "Mike Sawzak", 
+        "Email": "board@gulfstreamsailingclub.org"
+    }
+]
