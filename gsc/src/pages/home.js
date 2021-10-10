@@ -45,32 +45,6 @@ const About = () => {
       <Sponsors />
 
       <br />
-
-      <p>
-        LSBC has grown from six men with boats under 22&#39; looking for a place
-        to keep them in the water, to a fantastic facility for small boating
-        enthusiasts. We provide dockage, haul out facilities and many other
-        conveniences for members, and we also have the unique ambience of a
-        &quot;club&quot;.
-      </p>
-
-      <br />
-      <p>
-        Our members are treated to a variety of social events which vary from
-        monthly &quot;Happy Hours&quot; to Fishing &amp; Holiday events for
-        members and their families. We have grown immensely over the past 50
-        plus years, from a hole in the ground that accommodated a few boats to a
-        family oriented Boat Club that can reflect on these years with pride and
-        a sense of accomplishment.
-      </p>
-
-      <br />
-
-      <p>
-        Thanks to the sweat-equity and donations of our members, we have been
-        able to provide the special atmosphere and surroundings that our members
-        have come to enjoy, appreciate and expect from our club.
-      </p>
     </div>
   );
 };
